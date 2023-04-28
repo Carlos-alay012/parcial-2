@@ -1,0 +1,15 @@
+C:\Users\gamer\source\repos\Battleship Parcial 2\Battleship Parcial 2\bin\Debug\net7.0\Battleship Parcial 2.exe
+C:\Users\gamer\source\repos\Battleship Parcial 2\Battleship Parcial 2\bin\Debug\net7.0\Battleship Parcial 2.deps.json
+C:\Users\gamer\source\repos\Battleship Parcial 2\Battleship Parcial 2\bin\Debug\net7.0\Battleship Parcial 2.runtimeconfig.json
+C:\Users\gamer\source\repos\Battleship Parcial 2\Battleship Parcial 2\bin\Debug\net7.0\Battleship Parcial 2.dll
+C:\Users\gamer\source\repos\Battleship Parcial 2\Battleship Parcial 2\bin\Debug\net7.0\Battleship Parcial 2.pdb
+C:\Users\gamer\source\repos\Battleship Parcial 2\Battleship Parcial 2\obj\Debug\net7.0\Battleship Parcial 2.csproj.AssemblyReference.cache
+C:\Users\gamer\source\repos\Battleship Parcial 2\Battleship Parcial 2\obj\Debug\net7.0\Battleship Parcial 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\source\repos\Battleship Parcial 2\Battleship Parcial 2\obj\Debug\net7.0\Battleship Parcial 2.AssemblyInfoInputs.cache
+C:\Users\gamer\source\repos\Battleship Parcial 2\Battleship Parcial 2\obj\Debug\net7.0\Battleship Parcial 2.AssemblyInfo.cs
+C:\Users\gamer\source\repos\Battleship Parcial 2\Battleship Parcial 2\obj\Debug\net7.0\Battleship Parcial 2.csproj.CoreCompileInputs.cache
+C:\Users\gamer\source\repos\Battleship Parcial 2\Battleship Parcial 2\obj\Debug\net7.0\Battleship Parcial 2.dll
+C:\Users\gamer\source\repos\Battleship Parcial 2\Battleship Parcial 2\obj\Debug\net7.0\refint\Battleship Parcial 2.dll
+C:\Users\gamer\source\repos\Battleship Parcial 2\Battleship Parcial 2\obj\Debug\net7.0\Battleship Parcial 2.pdb
+C:\Users\gamer\source\repos\Battleship Parcial 2\Battleship Parcial 2\obj\Debug\net7.0\Battleship Parcial 2.genruntimeconfig.cache
+C:\Users\gamer\source\repos\Battleship Parcial 2\Battleship Parcial 2\obj\Debug\net7.0\ref\Battleship Parcial 2.dll
